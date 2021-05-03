@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HallJ\source\repos\dynamic programming\dynamic programming\main.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HallJ\source\repos\dynamic programming\dynamic programming\main.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  dynamic programming.vcxproj -> C:\Users\HallJ\source\repos\dynamic programming\Debug\dynamic programming.exe
